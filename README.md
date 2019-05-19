@@ -61,5 +61,5 @@ This software is released under the MIT License, see LICENSE.
 Masataka Oba
 
 # References
-https://www.simplifiedios.net/swift-php-mysql-tutorial/
-https://qiita.com/egplnt/items/b9deefa85992bdad356f
+- https://www.simplifiedios.net/swift-php-mysql-tutorial/
+- https://qiita.com/egplnt/items/b9deefa85992bdad356f
